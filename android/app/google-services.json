@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "251470236166",
+    "firebase_url": "https://pharmaciemobile-deeda.firebaseio.com",
+    "project_id": "pharmaciemobile-deeda",
+    "storage_bucket": "pharmaciemobile-deeda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251470236166:android:183afce7e9928985061187",
+        "android_client_info": {
+          "package_name": "com.example.pharmaciemobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251470236166-mpaufn8tdjr3hnmoc34vifp8ivldk9o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEbVxx-W89MY1sn5e7l3xOb7QpGAwHueU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251470236166-mpaufn8tdjr3hnmoc34vifp8ivldk9o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
